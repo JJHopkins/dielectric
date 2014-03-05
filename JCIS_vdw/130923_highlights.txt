@@ -1,0 +1,40 @@
+
+JCIS "Highlights" specifications:
+1) Include 3 to 5 highlights
+2) Each highlight has max 85 characters, including spaces
+3) Only core results of the paper should be covered
+examples: www.elsevier.com/journal-authors/highlights
+
+
+Version 2:
+(100) 1. Small changes in dielectric response result in substantial variations in van der Waals interactions.
+( 80) 2. Variation at a fixed spectral frequency influences all Matsubara summation terms.
+(110) 3. The position of maximal change in Matsubara terms is not directly related to the position of the added peak. 
+( 95) 4. Matching the refractive index at an absorption peak does not quench van der Waals interactions.
+(124) 5. van der Waals interactions are unlikely to be significantly reduced by spectral variation in a narrow
+regime of frequencies.
+
+Version 1:
+(143) 1. We show that small changes in the dielectric response result in substantial variations in the Hamaker 
+coefficient of the van der Waals interactions.
+(391) 2. Variation of the dielectric response spectra at one particular frequency influence all the terms in the
+Matsubara summation, making the total change in the Hamaker coefficient depend on the spectral
+changes not only at that frequency but are distributed over the whole
+interval of frequencies and can show a maximum
+whose position is not directly related to the po-
+sition of the added peak. 
+(270) 3. Our detailed calculations prove that
+this is certainly not the case that: 
+the Tabor-Winterton approximation would
+suggest that matching the refractive index at a
+single absorption peak should effectively quench
+the long range vdW component of molecular in-
+teractions. 
+(172) 4. A possibility of eliminating
+van der Waals interactions or at least drastically reducing them by spectral variation in a narrow
+regime of frequencies thus seems very remote
+
+
+COVER LETTER:
+In this work we present an analysis of how small changes in the dielectric response of a material result in substantial variations in the Hamaker coefficient of the van der Waals interactions. We use a simplified approximate model as well as a realistic example of amorphous silica with and without an exciton peak. As an aimportant conclusion we show that a possibility of eliminating van der Waals interactions or at least drastically reducing them by spectral variation in a narrow regime of frequencies thus seems very remote.
+

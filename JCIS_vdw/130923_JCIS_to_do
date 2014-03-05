@@ -1,0 +1,34 @@
+Page A) 
+Graphical Abstract - Done
+		5x13 cm, 96 dpi, tiff/eps/pdf, min 531x1328 px
+Page B) 
+Highlights = unique methods,results,conclusions
+	3-5 bullets, each bullet: 85 characters max inc spaces		
+	Write "Highlights" in file name
+	No jargon/abbrevations
+
+Page C) Acknowlegements on separate page, see guidelines
+
+('revised submissions')Page D) Electronic Artwork... see guidelines
+	Free color online, not free in print
+
+Keywords: 10 words max
+
+Abbreviations: define all in footnote on first page
+
+BODY: use 'elsarticle' latex style file package
+
+Page 1) 
+Title Page:
+	Affiliations- use lowercase superscript letter after name
+	Provide full postal address, including country
+	Provide Email of each author
+	Corrsponding Author:
+		Include telephone number with email, etc.
+Page 2)
+Abstract: 
+New three part format
+200 words max- we have 151 words
+
+
+
